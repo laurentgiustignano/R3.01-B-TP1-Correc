@@ -16,3 +16,11 @@ $guillement = "Ma variable : $nombreEntier";
 $apostrophe = 'Ma variable : $nombreEntier';
 $concatenation = $chaine . $autreChaine;
 
+/* les tableaux */
+$notes = [12, 14, 13.5, 9];
+$persons = [
+  'firstname' => 'John',
+  'lastname' => 'Doe',
+  'age' => 25,
+  'town' => 'Paris',
+];
