@@ -12,5 +12,7 @@ $unBooleen = true; // ou bien false
 /* une constante */
 const PI = 3.14;
 
-
+$guillement = "Ma variable : $nombreEntier";
+$apostrophe = 'Ma variable : $nombreEntier';
+$concatenation = $chaine . $autreChaine;
 
