@@ -1,1 +1,3 @@
-Bonjour à tous !
+/* Bonjour à tous ! */
+// Je m'affiche toujours
+
