@@ -1,3 +1,5 @@
-/* Bonjour à tous ! */
-// Je m'affiche toujours
+Bonjour à tous !
+<?php
+echo "Comment ça va ?";
+?>
 
